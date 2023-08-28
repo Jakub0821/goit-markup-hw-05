@@ -348,7 +348,7 @@ padding-bottom: 16px;
 }
 
 .icon-our-team {
-  fill: var(--color-contrast-dark);
+  fill: var(--color-contrast-brighter);
 }
 
 .icon-our-team:hover,
@@ -581,6 +581,9 @@ padding-bottom: 16px;
   cursor: pointer;
   transition: var(--transition-variable);
 }
+.social-footer-icon-element{
+    fill: var(--color-contrast-bright)
+  }
 
 .is-hidden {
   pointer-events: none;
